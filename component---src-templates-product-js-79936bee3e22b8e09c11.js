@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{giMl:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a})),t.d(e,"query",(function(){return c}));var r=t("q1tI"),u=t.n(r);function a(n){var e=n.data.wcProducts;return u.a.createElement("div",null,u.a.createElement("h1",null,e.name))}var c="3568153532"}}]);
+//# sourceMappingURL=component---src-templates-product-js-79936bee3e22b8e09c11.js.map
